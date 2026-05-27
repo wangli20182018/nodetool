@@ -40,7 +40,6 @@
     "packages/sandbox-agent",
     "packages/sandbox-tools",
     "web",
-    "electron",
     "examples/chat_app"
   ],
   "scripts": {

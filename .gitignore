@@ -62,7 +62,7 @@ test-results/
 # macOS
 # https://github.com/github/gitignore/blob/master/Global/macOS.gitignore
 .DS_Store
-
+.idea*
 .env
 cert.pem
 key.pem
